@@ -1,4 +1,4 @@
-# 👋 Cześć, jestem Branka
+# 👋 Cześć, jestem Bartek
 
 **FullStack Developer** · Student CS @ AGH · AWS Certified Cloud Practitioner
 
