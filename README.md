@@ -14,7 +14,7 @@
 ## O mnie
 
 Fullstack developer z doświadczeniem w budowie REST API, aplikacji webowych i systemów AI-agentowych.
-Aktualnie rozwijam uczelniane systemy w organizacji BIT AGH oraz prowadzę projekt **CareerHelp** — aplikację AI na targi IT Days AGH, we współpracy z mentorem z Google.
+Aktualnie rozwijam uczelniane systemy w organizacji BIT AGH oraz prowadzę projekt **CareerSign** — aplikację AI na targi IT Days AGH, we współpracy z mentorem z Google.
 
 ---
 
@@ -33,7 +33,7 @@ Aktualnie rozwijam uczelniane systemy w organizacji BIT AGH oraz prowadzę proje
 
 ## 🚀 Projekty
 
-### 🤖 [CareerHelp](https://github.com/Dyzio9666)
+### 🤖 [CareerSign](https://github.com/Dyzio9666)
 > Team Lead & Software Engineer · mar 2026 – teraz
 
 Aplikacja AI budowana na targi IT Days AGH, we współpracy z mentorem z Google.
