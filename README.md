@@ -33,7 +33,7 @@ Aktualnie rozwijam uczelniane systemy w organizacji BIT AGH oraz prowadzę proje
 
 ## 🚀 Projekty
 
-### 🤖 [CareerSign](https://github.com/Dyzio9666](https://carriersign.batko.it)
+### 🤖 [CareerSign]https://carriersign.batko.it
 > Team Lead & Software Engineer · mar 2026 – teraz
 
 Aplikacja AI budowana na targi IT Days AGH, we współpracy z mentorem z Google.
